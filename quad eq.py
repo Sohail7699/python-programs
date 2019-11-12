@@ -1,0 +1,8 @@
+a=input("enter the coefficient of a")
+b=input("enter the coefficient of b")
+c=input("enter the coefficient of c")
+a=int(a)
+b=int(b)
+c=int(c)
+x=((-b)+(((b**2)-(4*a*c))**0.5))/(2*a)
+print(x)

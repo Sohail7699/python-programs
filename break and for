@@ -1,0 +1,2 @@
+maths = {'john': 88 , 'sam' : 77}
+print(maths['john'])
