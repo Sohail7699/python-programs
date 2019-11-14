@@ -1,3 +1,4 @@
+#prime or composite
 a= int(input("enter any number"))
 for i in range(2,a):
     if (a%i) == 0:
